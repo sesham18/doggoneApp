@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-   }
+}
    
 body {
     background-color: rgb(85, 149, 201);
     color: rgb(241, 238, 233); 
     font-family: 'Work Sans', sans-serif;
     text-align: center; 
-    margin: 10px; 
+    margin: 15px; 
 }
