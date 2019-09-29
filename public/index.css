@@ -9,3 +9,16 @@ body {
     text-align: center; 
     margin: 15px; 
 }
+
+.title h1{
+    display: block; 
+    height: 50px; 
+    margin-right: auto; 
+    margin-left: auto;
+    margin-top: 30px; 
+    margin-bottom: 30px; 
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(241, 238, 233); 
+}
