@@ -16,3 +16,13 @@ $('#login').on('click', function(){
     $('.choose-instructions').hide(); 
     $('.container').show(); 
 })
+
+$('.home').on('click', function(){
+    $('.instructions').show(); 
+    $('.choose-instructions').show(); 
+    $('.container').hide(); 
+})
+
+$('.restart').on('click', function(){
+  $('.instructions').show(); 
+});
