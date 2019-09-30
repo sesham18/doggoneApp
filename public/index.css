@@ -10,6 +10,13 @@ body {
     margin: 15px; 
 }
 
+.instructions{
+    display: block; 
+    font-size: 10px; 
+    font-family: 'Work Sans', sans-serif; 
+    margin-top: 80px; 
+}
+
 .title h1{
     display: block; 
     height: 50px; 
@@ -22,3 +29,87 @@ body {
     font-size: 50px;
     color: rgb(241, 238, 233); 
 }
+
+.signup{
+    width: 300px;
+    height: 300px; 
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    background-color:rgb(212, 229, 243); 
+    border-radius:5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px; 
+}
+
+.signup h1{
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    size: 20px;
+    color: rgb(57, 93, 122); 
+    
+}
+.signup label{ 
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(57, 93, 122); 
+    text-align: left; 
+    font-size: 10px;
+    margin-bottom: 5px; 
+    margin-top: 5px;
+    display: block;
+}
+
+
+.instructions{
+    display: block; 
+    font-size: 10px; 
+    font-family: 'Work Sans', sans-serif; 
+    margin-top: 80px; 
+}
+
+.signup input{ 
+    display: block;
+    width: 200px;  
+    height: 50px; 
+    margin-right: auto;
+    margin-left: auto;  
+    margin-top:10px;
+    margin-bottom:5px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 10px; 
+    background-color:rgb(241, 238, 233); 
+    color: rgb(145, 141, 135);
+}
+
+.signup button{
+    width: 100px; 
+    position:relative;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: center; 
+    background-color:rgb(79, 110, 134);  
+    height: 25px;   
+    font-family: 'Work Sans', sans-serif;
+    font-size: 10px;
+    color: rgb(241, 238, 233); 
+    border-radius: 5px; 
+}
+
+#get-start, #login{
+    width: 100px; 
+    height: 50px; 
+    position:relative;
+    margin-left: 10px;
+    margin-right: 10px; 
+    margin-top: 15px;
+    float: center; 
+    background-color:rgb(57, 93, 122);;  
+    font-family: 'Work Sans', sans-serif;
+    font-size: 10px;
+    color: rgb(241, 238, 233); 
+    border-radius: 5px;
+    border: none; 
+}
+
